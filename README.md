@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=edacb1&height=150&section=header&text=Cha%20Se%20Hun&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=fbceb1&height=150&section=header&text=Cha%20Se%20Hun&fontSize=70&animation=twinkling)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
