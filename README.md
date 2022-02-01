@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Express.js-ffb13b?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Web3.js-gray?style=flat-square&logo=Web3.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Caver.js-d2691e?style=flat-square&logo=Kakao&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/gin-20b2aa?style=flat-square&logo=Gin&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Gin/gonic-20b2aa?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Mysql-007396?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Ethereum-gray?style=flat-square&logo=Ethereum&logoColor=white"/></a>&nbsp
