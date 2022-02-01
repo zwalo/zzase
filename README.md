@@ -33,7 +33,7 @@
 <div align="center" style="text-align:center">
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zzase&tag=블록체인)](https://velog.io/@zzase)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zzase)](https://velog.io/@zzse)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zzase&tag=go)](https://velog.io/@zzse)
   
 </div>
   
