@@ -28,18 +28,6 @@
 
 <br>
 
-<h3 align="center">📄 Blog 📄</h3>
-
-<div align="center" style="text-align:center">
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zzase&tag=블록체인)](https://velog.io/@zzase)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zzase&tag=go)](https://velog.io/@zzse)
-  
-</div>
-  
-<br>
-
-
 <h3 align="center"> 💁 SNS </h3>
 <p align="center">
   <a href="https://velog.io/@zzase"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zzase"/></a>&nbsp
